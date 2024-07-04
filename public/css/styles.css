@@ -11,9 +11,9 @@ html{
 }
 
 .header{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
-    background-image: url(/Portfolio-Website-main/public/images/10.png);
+    background-image: url(/public/images/10.png);
     background-size: cover;
     background-position: center;
 }
