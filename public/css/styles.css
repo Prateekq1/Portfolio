@@ -11,7 +11,7 @@ html{
 }
 
 .header{
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-image: url(/public/images/10.png);
     background-size: cover;
@@ -361,7 +361,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px) {
     
     .header{
-        background-image: url(/images/m2.jpg);
+        background-image: url(/public/images/m2.jpg);
         height: 130vh;
         width: 125vw;
     }
